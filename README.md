@@ -9,3 +9,4 @@ Some links I want to look at soon
 - [ ] https://github.com/nestjs/nest Nest is a framework for building efficient, scalable Node.js server-side applications.
 - [ ] https://www.youtube.com/watch?v=UFrogJY9WHI Using Faker Youtube
 - [ ] https://www.opensourceagenda.com/projects/graphql-faker Faker Website
+- [ ] https://www.youtube.com/watch?time_continue=867&v=pGzssFNtWXw&feature=emb_logo Ceate VS Code Color Theme
