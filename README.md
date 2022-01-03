@@ -6,3 +6,4 @@ Some links I want to look at soon
 - [ ] https://www.youtube.com/watch?v=rMD3A5BgDxE Use This Vite Vue.js 3 Starter Template
 - [ ] https://app.netlify.com/ Some kind of temp hosting thing to test an app I think
 - [ ] https://coder.com/docs/coder/latest/comparison VS Code Server
+- [ ] https://github.com/nestjs/nest Nest is a framework for building efficient, scalable Node.js server-side applications.
